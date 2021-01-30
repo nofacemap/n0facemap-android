@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811619355654",
+    "project_id": "unsurv-game",
+    "storage_bucket": "unsurv-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811619355654:android:8341e7c544e18bc6ca0787",
+        "android_client_info": {
+          "package_name": "com.example.unsurvgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811619355654-7v2l5090amgtn6vt5026eu4k7buvc9ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unsurvgame",
+            "certificate_hash": "2f806e52cb6ca6d7fada4d716e8a1e6c42dcd22d"
+          }
+        },
+        {
+          "client_id": "811619355654-s0ahg6cg8uhl4fm6u4be381ppp35jmve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH1b56xBbGys3_jZeQPXx9RZ4SeNfU0Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811619355654-s0ahg6cg8uhl4fm6u4be381ppp35jmve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
